@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Latihan 2.6 - Image Map</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+    <div id="header">
+        <h1>Judul/Header Website</h1>
+    </div>
+
+    <div id="main">
+        <div id="link">
+            <ul>
+                <li><a href="#">London</a></li>
+                <li><a href="#">Paris</a></li>
+                <li><a href="#">Tokyo</a></li>
+            </ul>
+        </div>
+
+        <div id="content">
+            <h2>Tutorial Image Map</h2>
+            <p>Klik pada bagian komputer, handphone, atau kopi pada gambar di bawah ini:</p>
+
+            <img src="Gambar/gengster itali jir.jpg" alt="Workplace" usemap="#petagambar" style="width:200px; max-width:600px;">
+
+            <map name="petagambar">
+                <area shape="rect" coords="34,44,270,350" alt="Computer" href="https://en.wikipedia.org/wiki/Computer">
+                
+                <area shape="rect" coords="290,172,333,250" alt="Phone" href="https://en.wikipedia.org/wiki/Telephone">
+                
+                <area shape="circle" coords="337,300,44" alt="Coffee" href="https://en.wikipedia.org/wiki/Coffee">
+            </map>
+              
+            <p>Tag HTML <code>&lt;map&gt;</code> mendefinisikan peta gambar. Area ditentukan dengan satu atau lebih tag <code>&lt;area&gt;</code>.</p>
+        </div>
+    </div>
+
+    <div id="footer">
+        <i>copyright@Gian Yudha Pratama_253307055</i>
+    </div>
+
+</body>
+</html>
