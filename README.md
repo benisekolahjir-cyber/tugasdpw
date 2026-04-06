@@ -3,7 +3,9 @@
 Selamat datang di repositori **Desain dan Pemrograman Web**. Repositori ini berisi kumpulan tugas, latihan, dan modul praktikum yang dikerjakan selama perkuliahan.
 
 ## 👤 Identitas Dosen
-* **Nama:** Angger Binuko 
+* **Nama:** Gian Yudha Pratama
+* **NIM:** 253307055
+* **Kelas:** 2B
 * **Program Studi:** Teknologi Informasi
 * **Kampus:** Politeknik Negeri Madiun
 
