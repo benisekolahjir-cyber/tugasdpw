@@ -3,7 +3,7 @@
 Selamat datang di repositori **Desain dan Pemrograman Web**. Repositori ini berisi kumpulan tugas, latihan, dan modul praktikum yang dikerjakan selama perkuliahan.
 
 ## 👤 Identitas Dosen
-* **Nama:** Angger Binuko Paksi
+* **Nama:** Angger Binuko 
 * **Program Studi:** Teknologi Informasi
 * **Kampus:** Politeknik Negeri Madiun
 
