@@ -2,7 +2,7 @@
 
 Selamat datang di repositori **Desain dan Pemrograman Web**. Repositori ini berisi kumpulan tugas, latihan, dan modul praktikum yang dikerjakan selama perkuliahan.
 
-## 👤 Identitas Dosen
+## 👤 Identitas Mahasiswa
 * **Nama:** Gian Yudha Pratama
 * **NIM:** 253307055
 * **Kelas:** 2B
